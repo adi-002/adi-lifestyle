@@ -7,24 +7,24 @@ const path = window.location.host + '/adi-lifestyle';
 console.log(path);
 const Mendata = [
     {
-        imgsrc: {shirt},
+        imgsrc: shirt,
         title: "Shirts",
         links:`http://${path}/menshirt`
     },
     {
-        imgsrc: {tshirt},
+        imgsrc: tshirt,
         title: "T-Shirts",
         links:`http://${path}/mentshirt`
 
     },
     {
-        imgsrc: {pant},
+        imgsrc: pant,
         title: "Pants",
         links:`http://${path}/menpant`
     },
   
     {
-        imgsrc: {shoes},
+        imgsrc: shoes,
         title: "Shoes",
         links:`http://${path}/menshoes`
     },
