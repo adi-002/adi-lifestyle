@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/adi-lifestyle/static/css/main.238ca140.chunk.css",
-    "main.js": "/adi-lifestyle/static/js/main.8a1f98e2.chunk.js",
-    "main.js.map": "/adi-lifestyle/static/js/main.8a1f98e2.chunk.js.map",
+    "main.js": "/adi-lifestyle/static/js/main.bf1ac635.chunk.js",
+    "main.js.map": "/adi-lifestyle/static/js/main.bf1ac635.chunk.js.map",
     "runtime-main.js": "/adi-lifestyle/static/js/runtime-main.dbd7ac20.js",
     "runtime-main.js.map": "/adi-lifestyle/static/js/runtime-main.dbd7ac20.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/adi-lifestyle/static/css/2.20aa2d7b.chunk.css",
@@ -63,6 +63,6 @@
     "static/css/2.20aa2d7b.chunk.css",
     "static/js/2.e9ec11a8.chunk.js",
     "static/css/main.238ca140.chunk.css",
-    "static/js/main.8a1f98e2.chunk.js"
+    "static/js/main.bf1ac635.chunk.js"
   ]
 }
