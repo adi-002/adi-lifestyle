@@ -3,28 +3,30 @@ import tshirt from "../src/images/mentshirt.jpg"
 import pant from "../src/images/menpant.jpg"
 import shoes from "../src/images/menshoes.jpg"
 
+const path = window.location.host
+console.log(path)
 const Mendata = [
     {
         imgsrc: shirt,
         title: "Shirts",
-        links:"http://localhost:3000/menshirt"
+        links:`http://${path}/menshirt`
     },
     {
         imgsrc: tshirt,
         title: "T-Shirts",
-        links:"http://localhost:3000/mentshirt"
+        links:`http://${path}/mentshirt`
 
     },
     {
         imgsrc: pant,
         title: "Pants",
-        links:"http://localhost:3000/menpant"
+        links:`http://${path}/menpant`
     },
   
     {
         imgsrc: shoes,
         title: "Shoes",
-        links:"http://localhost:3000/menshoes"
+        links:`http://${path}/menshoes`
     },
 
 ]

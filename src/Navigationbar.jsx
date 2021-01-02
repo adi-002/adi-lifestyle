@@ -10,7 +10,7 @@ function Navigationbar() {
   return (
     <>
 <div >
-      <Navbar  fixed='top'  collapseOnSelect expand="lg" bg="light" variant="light" className="NavgationBar">
+      <Navbar  fixed='top'  collapseOnSelect expand="lg" bg="light" variant="light" className="NavgationBar navbar-expand-lg">
         <Navbar.Brand href="/">
           <img
             src={logo}

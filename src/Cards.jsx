@@ -3,8 +3,8 @@ const Cards = (props) => {
  
     return (
         <>
-        <div className="px-3">
-            <div className="outerCard ">
+        <div className="px-3 py-3 justify-content-center">
+            <div className="outerCard">
             <a href={props.links} className="cardLink">
                 <div  style={{width:'16rem'}}>
                     <img className="card-img-top" src={props.imgsrc} alt="Card image cap" />

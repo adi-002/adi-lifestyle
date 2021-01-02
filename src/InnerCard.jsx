@@ -1,10 +1,9 @@
 import React, { useState } from 'react';
-import { Link } from 'react-router-dom';
 const InnerCards = (props) => {
 
     return (
         <>
-            <div className="px-5 py-5">
+            <div className=" py-3 px-3">
                 <div className="innerCard ">
 
                     <div style={{ width: '16rem' }}>
