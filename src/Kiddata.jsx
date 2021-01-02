@@ -3,7 +3,7 @@ import kidtshirt from "../src/images/kidtshirt.jpg"
 import kidpant from "../src/images/kidpant.jpg"
 import kidfootwear from "../src/images/kidfootwear.jpg"
 
-const path = window.location.host + '/lifestyle'
+const path = window.location.host + '/adi-lifestyle'
 const Kiddata = [
     {
         imgsrc: kidtshirt,

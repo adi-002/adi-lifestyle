@@ -3,7 +3,7 @@ import tshirt from "../src/images/mentshirt.jpg"
 import pant from "../src/images/menpant.jpg"
 import shoes from "../src/images/menshoes.jpg"
 
-const path = window.location.host + '/lifestyle'
+const path = window.location.host + '/adi-lifestyle'
 console.log(path)
 const Mendata = [
     {

@@ -4,7 +4,7 @@ import top from "../src/images/top.jpg"
 import footwear from "../src/images/footwear.jpg"
 import grlpants from "../src/images/Pants.jpg"
 
-const path = window.location.host + '/lifestyle'
+const path = window.location.host + '/adi-lifestyle'
 
 const Womendata = [
     {
@@ -15,7 +15,7 @@ const Womendata = [
     {
         imgsrc: top,
         title: "Tops",
-         links:"http://${path}/womentop"
+         links:`http://${path}/womentop`
     },
     {
         imgsrc: grlpants,
