@@ -4,7 +4,7 @@ import top from "../src/images/top.jpg"
 import footwear from "../src/images/footwear.jpg"
 import grlpants from "../src/images/Pants.jpg"
 
-const path = window.location.host + '/adi-lifestyle';
+const path = window.location.host
 
 const Womendata = [
     {
